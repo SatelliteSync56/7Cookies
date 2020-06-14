@@ -1,11 +1,11 @@
 Dim oPlayer
 Public stpswrd
 Set WshShell = WScript.CreateObject("WScript.Shell")
-a = MsgBox("7Cookies by Trangle APG Copyright 2019, support development at trangleproject.wordpress.com",1,"7Cookies")
+a = MsgBox("7Cookies by Trangle APG 2019, support development at trangleproject.wordpress.com",1,"7Cookies 1.6")
 If a = 2 Then
 Wscript.Quit
 End If
-a = MsgBox("You do not have a 7Cookies Account. Create one now?",3,"7Cookies")
+a = MsgBox("You do not have a 7Cookies Account. Create one now?",3,"7Cookies 1.6")
 If a = 2 Then
 Wscript.Quit
 End If
